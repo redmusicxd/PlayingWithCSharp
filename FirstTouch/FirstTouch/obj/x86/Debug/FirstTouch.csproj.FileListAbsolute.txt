@@ -1,0 +1,20 @@
+/home/rednblk/Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.csprojAssemblyReference.cache
+/home/rednblk/Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.csproj.CoreCompileInputs.cache
+/home/rednblk/Projects/FirstTouch/FirstTouch/bin/Debug/FirstTouch.exe
+/home/rednblk/Projects/FirstTouch/FirstTouch/bin/Debug/FirstTouch.pdb
+/home/rednblk/Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.exe
+/home/rednblk/Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.pdb
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.csprojAssemblyReference.cache
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.csproj.CoreCompileInputs.cache
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.exe
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.pdb
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/bin/Debug/FirstTouch.exe.config
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/bin/Debug/FirstTouch.exe
+C:/Users/rednb/Desktop/FirstTouch/FirstTouch/bin/Debug/FirstTouch.pdb
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/bin/Debug/FirstTouch.exe.config
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/bin/Debug/FirstTouch.exe
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/bin/Debug/FirstTouch.pdb
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.csprojAssemblyReference.cache
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.csproj.CoreCompileInputs.cache
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.exe
+/media/hwbear/WHR/Software Development Projects/FirstTouch/FirstTouch/obj/x86/Debug/FirstTouch.pdb
